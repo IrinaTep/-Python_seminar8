@@ -1,0 +1,8 @@
+Ivanov,Ivan,+123 
+Petrov,Petr,+456 
+Semyonov,Semyon,+789 
+Gavrilov,Gavriil,+147
+Dmitriev,Dmitriy,+369
+Andreev,Andrey,+321
+Romanov,Roman,+654
+Artyomov,Artyom,+257
